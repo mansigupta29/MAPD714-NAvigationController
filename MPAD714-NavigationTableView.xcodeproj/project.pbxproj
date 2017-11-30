@@ -14,6 +14,8 @@
 		3F8939371FCF87A00028C386 /* FavouritesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8939361FCF87A00028C386 /* FavouritesList.swift */; };
 		3F89393B1FCF8E1F0028C386 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F89393A1FCF8E1F0028C386 /* RootViewController.swift */; };
 		3F89393D1FCF9F860028C386 /* FontListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F89393C1FCF9F860028C386 /* FontListViewController.swift */; };
+		3F89393F1FCFA58E0028C386 /* FontSizesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F89393E1FCFA58E0028C386 /* FontSizesViewController.swift */; };
+		3F8939411FCFA8EC0028C386 /* FontInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8939401FCFA8EC0028C386 /* FontInfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		3F8939361FCF87A00028C386 /* FavouritesList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavouritesList.swift; sourceTree = "<group>"; };
 		3F89393A1FCF8E1F0028C386 /* RootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		3F89393C1FCF9F860028C386 /* FontListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontListViewController.swift; sourceTree = "<group>"; };
+		3F89393E1FCFA58E0028C386 /* FontSizesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontSizesViewController.swift; sourceTree = "<group>"; };
+		3F8939401FCFA8EC0028C386 /* FontInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontInfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				3F8939361FCF87A00028C386 /* FavouritesList.swift */,
 				3F89393A1FCF8E1F0028C386 /* RootViewController.swift */,
 				3F89393C1FCF9F860028C386 /* FontListViewController.swift */,
+				3F89393E1FCFA58E0028C386 /* FontSizesViewController.swift */,
+				3F8939401FCFA8EC0028C386 /* FontInfoViewController.swift */,
 			);
 			path = "MPAD714-NavigationTableView";
 			sourceTree = "<group>";
@@ -143,8 +149,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F89393F1FCFA58E0028C386 /* FontSizesViewController.swift in Sources */,
 				3F8939371FCF87A00028C386 /* FavouritesList.swift in Sources */,
 				3F89393D1FCF9F860028C386 /* FontListViewController.swift in Sources */,
+				3F8939411FCFA8EC0028C386 /* FontInfoViewController.swift in Sources */,
 				3F8939251FCF82680028C386 /* AppDelegate.swift in Sources */,
 				3F89393B1FCF8E1F0028C386 /* RootViewController.swift in Sources */,
 			);
