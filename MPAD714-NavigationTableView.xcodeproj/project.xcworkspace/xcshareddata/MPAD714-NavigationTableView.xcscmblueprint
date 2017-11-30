@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4800A0DC46FD3804917527052A159C3545224BED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "19F7E181D0309616973BEFCD51966FBE7A948DC8" : 9223372036854775807,
+    "4800A0DC46FD3804917527052A159C3545224BED" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B1CE3DA8-E28D-4F89-9507-FD17D20374BB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "19F7E181D0309616973BEFCD51966FBE7A948DC8" : "",
+    "4800A0DC46FD3804917527052A159C3545224BED" : "MPAD714-NavigationTableView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MPAD714-NavigationTableView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MPAD714-NavigationTableView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mansigupta29\/MAPD714-TableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19F7E181D0309616973BEFCD51966FBE7A948DC8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mansigupta29\/MAPD714-NAvigationController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4800A0DC46FD3804917527052A159C3545224BED"
+    }
+  ]
+}
